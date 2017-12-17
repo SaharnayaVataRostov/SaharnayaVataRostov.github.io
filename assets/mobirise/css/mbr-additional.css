@@ -1416,7 +1416,7 @@ body {
 .cid-qDSJ1Duep1 {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #ff7f9f;
 }
 .cid-qDSJ1Duep1 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1449,7 +1449,7 @@ body {
   background: transparent !important;
 }
 .cid-qDSJ1Duep1 .mbr-gallery-item > div:hover:before {
-  opacity: 0.6 !important;
+  opacity: 0.5 !important;
 }
 .cid-qDSJ1Duep1 .mbr-gallery-title {
   font-size: .9em;
@@ -1471,7 +1471,7 @@ body {
   position: absolute;
   background: #ffffff !important;
   background: linear-gradient(to left, #ffffff, #ff7f9f) !important;
-  opacity: 0.6;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
